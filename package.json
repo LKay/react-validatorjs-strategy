@@ -4,7 +4,7 @@
   "description": "Strategy for using validatorjs with react-validation-mixin",
   "main": "./lib/strategy.js",
   "dependencies": {
-    "validatorjs": ">= 2.0.0"
+    "validatorjs": ">= 3.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.5.1",
